@@ -8,7 +8,6 @@ function designPageAnimation(){
 
     scrollTrigger: {
       trigger: "#designPage",
-      markers:true,
       scroller: "body",
       start: "top 40%",
       end: "top 37%",
@@ -30,7 +29,6 @@ function editPageAnimation(){
 
     scrollTrigger: {
       trigger: "#editPage",
-      markers:true,
       scroller: "body",
       start: "top 40%",
       end: "top 37%",
@@ -52,7 +50,6 @@ function documnetaryPageAnimation(){
 
     scrollTrigger: {
       trigger: "#editDocumentary",
-      markers:true,
       scroller: "body",
       start: "top 40%",
       end: "top 37%",
@@ -72,7 +69,6 @@ function intoPageAnimation(){
 
     scrollTrigger: {
       trigger: "#editIntro",
-      markers:true,
       scroller: "body",
       start: "top 40%",
       end: "top 37%",
@@ -95,7 +91,6 @@ function motionGraphicsPageAnimation(){
 
     scrollTrigger: {
       trigger: "#editMotionGraphics",
-      markers:true,
       scroller: "body",
       start: "top 40%",
       end: "top 37%",
