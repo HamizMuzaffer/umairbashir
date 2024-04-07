@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "The Bold Font";
+    src: url("/assets/Fonts/THE\ BOLD\ FONT\ -\ FREE\ VERSION\ -\ 2023.ttf");
+  }
+
+@font-face {
+    font-family: "Mono";
+    src: url("/assets/Fonts/SpaceMono-Regular.ttf");
+}
+
+@font-face {
+  font-family: "lolytaScript";
+  src: url("/assets/Fonts/LolytaScript\ -\ PERSONAL\ USE\ ONLY.otf");
+}
+
