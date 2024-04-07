@@ -1198,13 +1198,13 @@ video {
 }
 
 #documentaryImage{
-  background-image: url(/assets/Images/documentries.jpeg);
+  background-image: url(./assets/Images/documentries.jpeg);
 }
 #introImage{
-background-image: url(/assets/Images/360_F_416884178_l0RFKZemsnhyxTRJiWy2K0QwgHVRFUlq.jpg);
+background-image: url(./assets/Images/360_F_416884178_l0RFKZemsnhyxTRJiWy2K0QwgHVRFUlq.jpg);
 }
 #motionImage{
-background-image: url(/assets/Images/56377-479389382_tiny.jpg);
+background-image: url(./assets/Images/56377-479389382_tiny.jpg);
 }
 /* Modal styles */
 .modal {
